@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="info" xmlns:xi="http://www.w3.org/2001/XInclude">
+<title>Instructor and Course Information</title>
+	<xi:include href="./399-01meetingtimes.ptx" />
+	<xi:include href="./contact.ptx" />
+	<xi:include href="./399prereqs.ptx" />
+</section>

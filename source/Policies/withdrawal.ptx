@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <subsection xml:id="withdrawal"><title>Withdrawal Date, Safety, and Accommodation</title>
+        <subsubsection xml:id="withdrawal-date"><title>Withdrawal Date</title>
+	    <p> The deadline for withdrawing with a <sq>W</sq> grade is
+		<m>\WithdrawalDate</m> at 5:00<nbsp/>PM and is the responsibility of the student. 
+	    </p>
+    </subsubsection>
+    <subsubsection xml:id="accessibility_and_accommodation"><title>Accessibility, and Accommodation</title>
+    <p>
+    If you need accommodations due to a learning, physical, or other disability you must present a memo
+    to me from
+    <url href="http://www.gvsu.edu/dsr" visual='gvsu.edu/dsr'>Disability Support Resources</url> (DSR)
+    indicating the existence of a disability and the suggested
+    reasonable accommodations. 
+    If you have not already done so, please contact the Disability Support Resources office,
+    by calling 331-2490, emailing <email>dsrgvsu@gvsu.edu</email>, or visiting 4015 JHZ. 
+    Please note that I am unable to provide accommodations based upon disability until I have received a copy
+            of the DSR issued memo. For more information visit
+    GVSU's <url href="http://www.gvsu.edu/dsr" visual="gvsu.edu/dsr">Disability Support Resources</url> webpage.
+    </p>
+    <p>
+            Growth as a person does is certainly not limited to the classroom or academics. If there is an upcoming faith or religious observance that could have an impact on your attendance or work in the class, please <url href="https://www.gvsu.edu/affirmative/religious-request.htm" visual='gvsu.edu/affirmative/religious-request.htm'>submit a request</url> during the first two weeks of the semester, or as soon as is reasonably possible, so that we can plan together accordingly.
+    </p>
+    </subsubsection>
+    <subsubsection xml:id="safety-information">
+	    <title>Classroom and Campus Safety</title>
+                <p>
+                        I consider classroom and campus safety our shared responsibility.
+                        Please familiarize yourself with the classroom emergency placard, which
+                        contains important information that could prove useful should an emergency
+                        arise.
+                        Emergency situations could include a fire alarm, tornado warning, medical
+                        emergency, or hostile intruder, and our response might consist of evacuating
+                        the building in an orderly manner, moving as a group to a different location
+                        in the building, rendering assistance a class member, or staying put and
+                        locking the classroom door.
+                        In all cases, I will provide clear instructions as to what you should do.
+                </p>
+                <p>
+                        Please make sure to have your primary mobile number listed in Banner so that
+                        you will automatically receive any campus alerts.
+                        Should you receive an emergency notification in class, notify me
+                        immediately.
+    </p>
+    <p>
+            You can find more information about campus safety can be found at the sites shown in <xref ref="safety_info_sites" />.
+    </p>
+            <table xml:id="safety_info_sites">
+                    <title>Safety Information Locations</title>
+                    <tabular halign="left">
+                            <col width="40%"/>
+                            <col width="60%"/>
+                            <row header="yes" bottom="major"><cell>Information</cell><cell>Resource Location</cell></row>
+                            <row bottom="medium"><cell><p>Directions for enabling additional contact means to the campus alert system</p></cell><cell><url href="https://www.gvsu.edu/gvsualert"                              /></cell></row>
+                            <row bottom="medium"><cell><p>List of campus tornado safety locations</p></cell>                                    <cell><url href="https://www.gvsu.edu/emergency/tornado-safety-location-2.htm"/></cell></row>
+                            <row bottom="medium"><cell><p>Active shooter response</p></cell>                                                    <cell><url href="https://www.gvsu.edu/dps/active-shooter-response-85.htm"     /></cell></row>
+                            <row bottom="major" ><cell><p>Medical emergencies and campus AED locations</p></cell>                               <cell><url href="https://www.gvsu.edu/emergency/medical-emergency-15.htm"     /></cell></row>
+                    </tabular>
+            </table>
+    </subsubsection>
+    </subsection>

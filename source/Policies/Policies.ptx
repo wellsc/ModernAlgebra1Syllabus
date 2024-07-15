@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="policies" xmlns:xi="http://www.w3.org/2001/XInclude">
+<title>Course Policies and Expectations</title>
+	<introduction>
+                <p>
+		This course is subject to the GVSU policies listed at <url href="https://www.gvsu.edu/coursepolicies/" visual="gvsu.edu/coursepolicies" />. The following policies also apply.
+                </p>
+	</introduction>
+	<xi:include href="./timed.ptx" />
+	<xi:include href="./untimed.ptx" />
+	<xi:include href="./timemanagement.ptx" />
+	<xi:include href="./gettingmore.ptx" />
+	<xi:include href="./integrity.ptx" />
+	<xi:include href="./399technology.ptx" />
+	<xi:include href="./withdrawal.ptx" />
+</section>

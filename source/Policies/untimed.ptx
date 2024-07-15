@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <subsection xml:id="untimed"><title>Submitting Work for Feedback</title>
+        <p>
+    All drafts of work (exercises, proofs, and expository writing, for
+    example) that are submitted for feedback:
+    <ul>
+      <li>must be written using the software capable of high-quality mathematical typesetting or neatly hand-written and scanned. The <latex/> document preparation system (the standard in the
+	      mathematical community) is recommended;(See <xref ref="mathematical-typesetting" />, <xref ref="mathematical-typesetting" text="title" />, for more information)</li>
+      <li>must be spell-checked and proofread for grammatical correctness;</li>
+      <li>must be submitted electronically (via BlackBoard or shared link); and</li>
+      <li>must also be available in its original form (such as the original <latex/> (.tex) files and any other input files needed to generate
+          the PDF).</li>
+    </ul>
+    </p>
+    <p>
+    Please note that due to security issues and based on guidance from the Department of Education
+    regarding FERPA, the Family Educational Rights and Privacy Act of 1974, I cannot use e-mail or any
+    unsecured platform to discuss grades.
+    </p>
+    </subsection>

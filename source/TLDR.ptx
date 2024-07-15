@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="tldr" xmlns:xi="http://www.w3.org/2001/XInclude">
+	    <title>TLDR</title>
+            <p>
+                    <ul>
+                            <li>
+                                    <p>
+                                            <alert>This course is not graded the way you are used to!</alert> Read <xref ref='assessment'/>, <xref ref='assessment' text='title'/>, particularly <xref ref='assess_intro'/> and <xref ref='culmination'/>. Also check the <xref ref='important_dates' text='title'/> in <xref ref='important_dates' text='type-global'/> for a list of important dates!
+                                    </p>
+                            </li>
+                            <li>
+                                    <p>
+                                            This is a three credit independent study, compressing fifteen weeks into eight (8) weeks: we will meet once or twice a week to discuss progress and direction.
+                                    </p>
+                            </li>
+                            <li>
+                                    <p>
+                                            Did I mention this is a <alert>compressed</alert> course? It takes a lot of time! See <xref ref='timemanagement'/>, <xref ref='timemanagement' text='title'/>, and <xref ref='gettingmore'/>, <xref ref='gettingmore' text='title'/>.
+                                    </p>
+                            </li>
+                    </ul>
+            </p>
+</section>

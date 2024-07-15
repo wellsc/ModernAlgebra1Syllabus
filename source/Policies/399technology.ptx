@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<subsection xml:id="technology"><title>Communication and Technology Use</title>
+	<subsubsection xml:id="online_requirements"><title>Technology Requirements for Online/Hybrid Courses</title>
+	    <p>
+                    Although this class face-to-face, there is always the possibility that we may have to move online (synchronous). Thus, the <url href="https://www.gvsu.edu/online/technology-requirements-for-onlinehybrid-courses-8.htm" visual="gvsu.edu/online/technology-requirements-for-onlinehybrid-courses-8.htm">Technology Requirements for Online/Hybrid Courses</url> apply.
+	    </p>
+    </subsubsection>
+    <subsubsection xml:id="blackboard"><title>BlackBoard</title>
+<p>
+    Materials and information for this course will be posted to the course
+        <url href="https://lms.gvsu.edu/" visual="lms.gvsu.edu">BlackBoard</url> page. If you do not have access to the student network or
+    need help in using BlackBoard, please let me know as soon as possible.
+        </p>
+    </subsubsection>
+    <subsubsection xml:id="email"><title>E-mail</title>
+<p> Please check that the e-mail associated with your BlackBoard account is one that
+    you check, as I will use that e-mail to send messages to the entire class. 
+    </p>
+    </subsubsection>
+    <subsubsection xml:id="mathematical-typesetting"><title>Mathematical Typesetting</title>
+<p>
+    All material submitted for your portfolio
+	is expected to be written using using the software capable of high-quality mathematical typesetting, such as the <latex/> document preparation system.<fn>It is also possible to include hand-written items as scanned PDFs. Talk with me if you need to do this.</fn>  <latex/> is the standard in the
+    mathematical community, and you are strongly recommended to use it in this course.  
+    </p>
+    <p>
+    <latex/> is open source and available free of charge, either as an online editor and compiler via
+    <url href="https://overleaf.com" visual="overleaf.com">Overleaf</url>, or as a downloadable
+            stand-alone program from, for example, the <url href="http://www.ctan.org" visual="ctan.org">Comprehensive <tex/> Archive Network</url>,  or the <url href="http://www.tug.org" visual="tug.org"><tex/> Users Group</url>.
+    </p>
+    <p>
+    One useful resource for learning <latex/> is the series of
+    <url href="http://www.youtube.com/playlist?list=PLF975D9D3C9B50FF7" visual="youtube.com/playlist?list=PLF975D9D3C9B50FF7"><latex/> screencasts</url>, created by Dr.<nbsp/>Robert Talbert and available one the <url href="https://www.youtube.com/@GVSUmath" visual="youtube.com/@GVSUmath">GVSU Math Youtube Channel</url>.
+    These screencasts describe what exactly <latex/> is, how to get it, and how to use it.
+    </p>
+    <p>
+                    You may also find the <url href="http://www.codecogs.com/latex/eqneditor.php" visual="codecogs.com/latex/eqneditor.php">Code Cogs Equation Editor</url>
+                            and the <url href="http://detexify.kirelabs.org/classify.html" visual="detexify.kirelabs.org/classify.html">De<tex/>-ify app</url>
+     to be useful tools.
+    </p>
+    <p>
+    Further information on getting and using <latex/> will be discussed in class and templates for class
+    work and portfolios will be provided.
+    </p>
+    </subsubsection>
+    <subsubsection xml:id="recording_of_classes"><title>Recording of Classes</title>
+	    <p>
+	    In the event that we meet virtually via Zoom, class meetings will be recorded and will be available to students enrolled in this course as a study aid. 
+	    Students who do not want their likeness during class participation included in the recorded class session may elect to turn off the camera and change their name in the Zoom window. 
+	    Recordings will be available for viewing subject to the following:
+        <ul>
+                <li>
+                        Only students enrolled in the class may view the recording.
+                </li>
+                <li>
+                        Students may not post or use the recordings in any other setting (e.g., social media) for any purpose. Students who violate this will be subject to student discipline, up to and including expulsion.
+                </li>
+                <li>
+                        If faculty have any plan to use the recording for a different class in the future, the faculty member will need written FERPA consent from those students in the current class who are identifiable in any of the recordings. A FERPA consent form signed by all students in the course will also be needed if the recordings are made available to others beyond the classroom on a non-secure digital platform.
+                </li>
+	    </ul>
+    </p>
+    </subsubsection>
+</subsection>

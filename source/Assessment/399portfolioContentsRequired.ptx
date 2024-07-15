@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<subsection xml:id="portfolio_contents_required">
+        <title>
+                Required Elements of the Portfolio
+        </title>
+        <introduction>
+                <p>
+                        The following items are required to be in your portfolio.
+                </p>
+        </introduction>
+        <subsubsection xml:id="self_eval">
+                <title>
+                        Reader's Guide
+                </title>
+                <p>
+                        For each submission of your portfolio, you will update your reader's guide to discuss your overall progress, and to highlight progress since the last check-in, citing specific items of interest.
+                </p>
+        </subsubsection>
+        <subsubsection xml:id="activities">
+                <title>
+                        Syntheses of Activities and Readings
+                </title>
+                <p>
+                        Over the course of the semester you will be assigned multiple activities, investigations, and readings dealing with historically important mathematical topics and people.
+                </p>
+                <p>
+			For each <em>topic</em>  we study (not each activity), you are expected to include at least a synopsis of the main ideas, including the main mathematical techniques, if any. 
+			You are then expected to reflect on what the mathematics and the stories of the people involved say about the nature of mathematics.
+		</p>
+		<p>
+			Like everything in the portfolio, these are works in progress, and you are expected to revisit them in light of later activities or readings that may change your understanding of them.
+                </p>
+        </subsubsection>
+        <subsubsection xml:id="paper">
+                <title>
+                        Book Review or Research Paper
+                </title>
+                <p>
+                        During the first week of the semester, you will choose, in consultation with me, either a book dealing with a historical topic in mathematics or a historical figure in mathematics, or begin searching for articles on the application of mathematics to an area of current importance or interest, or of importance or interest to you.
+                </p>
+                <p>
+                        Your report or paper must be included in your portfolio.
+                </p>
+        </subsubsection>
+        <subsubsection xml:id="essays">
+                <title>
+                        Autobiography and other Essays
+                </title>
+                <p>
+			One of the first assignments in the course will for you to read one or more brief autobiographies of contemporary mathematicians and then to write your own mathematical autobiography. 
+		</p>
+		<p>
+			Over the course of the semester, you may also be assigned essays dealing with historical or philosophical aspects of mathematics. Your portfolio must contain each of these.
+                </p>
+        </subsubsection>
+        <subsubsection xml:id="sources">
+                <title>
+                        Citation of Sources
+                </title>
+                <p>
+			If you make use of any outside resources for this class, you are required to cite those sources. (The particular format of citations is not important. However, <latex /> provides a method for citing sources and creating bibliographies which I can show you how to use.)
+		</p>
+        </subsubsection>
+</subsection>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<subsection xml:id="objectives"><title>Objectives</title>
+	<p>
+		Topics in this course include:
+	</p>
+<blockquote>
+        <p>
+	<ol>
+                <li><p>Elementary number theory</p>
+                        <p>
+		<ul>
+			<li> Divisibility of integers, prime factorization, division algorithm </li>
+			<li> Greatest common divisors, including using the the Euclidean algorithm </li>
+			<li> Bezout's identity </li>
+                </ul>
+                        </p>
+                </li>
+                <li>
+                        <p>
+                                        Equivalence relations
+                        </p>
+                        <p>
+		<ul>
+			<li> Reflexivity, symmetry, transitivity </li>
+			<li> Congruence classes of integers <em>modulo</em> <m>n</m> </li>
+		</ul>
+                        </p>
+                        </li>
+                        <li>
+                                <p>
+                                        Rings
+                                </p>
+                <p>
+		<ul>
+			<li> Definitions of rings, integral domains, fields </li>
+			<li> Examples including some of the following: subsets of real and complex numbers, <m>2\times 2</m> matrices with real entries, integers <em>modulo</em> <m>n</m> </li>
+			<li> Zero divisors and units </li>
+			<li> Characteristic of a ring </li>
+		</ul>
+                </p>
+                        </li>
+                        <li>
+                                <p>
+                                        Relationships between rings
+                                </p>
+                                <p>
+		<ul>
+			<li> Subrings </li>
+			<li> Ring homomorphisms and ring isomorphisms </li>
+			<li> Relationships between fields and integral domains </li>
+		</ul>
+                                </p>
+                        </li>
+                        <li>
+                                <p>
+                                        Polynomial rings
+                                </p>
+                                <p>
+		<ul>
+			<li> Factorizations of polynomials, irreducible polynomials </li>
+			<li> Relationships between polynomials over a field and other rings </li>
+		</ul>
+                                </p>
+                        </li>
+	</ol>
+        </p>
+</blockquote>
+<p>
+	For some of these topics, we will use cryptography as an organizing and connecting principle due to its relevance to the real-world issue of online security.
+</p>
+<p>
+We will also explore the (in my opinion underrepresented) roles of insight and creativity in the development of mathematics,
+as well as the role of diligent, persistent work.
+</p>
+</subsection>
