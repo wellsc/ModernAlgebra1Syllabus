@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <pretext xmlns:xi="http://www.w3.org/2001/XInclude">
 <xi:include href="./macros.ptx" />
-<article xml:id="mth399-syllabus">
-	<title>Math 399: Topics in Abstract Algebra</title>
+<article xml:id="mth350-syllabus">
+	<title>Math 350: Modern Algebra</title>
 	<subtitle>Course Syllabus</subtitle>
     <frontmatter>
         <titlepage>
@@ -12,7 +12,7 @@
                 <institution>Grand Valley State University</institution>
                 <email>wellsc@gvsu.edu</email>
             </author>
-            <date>Spring/Summer 2024</date>
+            <date>Fall 2024</date>
         </titlepage>
     </frontmatter>
     <xi:include href="./TLDR.ptx"/>

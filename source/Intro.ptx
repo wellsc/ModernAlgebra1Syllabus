@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section xml:id="overallIntro" xmlns:xi="http://www.w3.org/2001/XInclude">
-	    <title>Welcome to Math 399!</title>
+	    <title>Welcome to Math 350!</title>
 	    <introduction>
 		    <p>
                 I reserve the right to adjust this syllabus as needed and will notify you of any changes through Blackboard.
             </p>
 	    </introduction>
-	<xi:include href="./399intro.ptx" />
+	<xi:include href="./350intro.ptx" />
 	<xi:include href="./mathIsFun.ptx" />
 </section>
