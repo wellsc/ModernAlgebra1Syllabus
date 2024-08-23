@@ -1,21 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <pretext xmlns:xi="http://www.w3.org/2001/XInclude">
-<xi:include href="./macros.ptx" />
+<xi:include href="./docinfo.ptx" />
 <article xml:id="mth350-syllabus">
 	<title>Math 350: Modern Algebra</title>
 	<subtitle>Course Syllabus</subtitle>
-    <frontmatter>
-        <titlepage>
-            <author>
-            <personname>Clark Wells</personname>
-                <department>Department of Mathematics</department>
-                <institution>Grand Valley State University</institution>
-                <email>wellsc@gvsu.edu</email>
-            </author>
-            <date>Fall 2024</date>
-        </titlepage>
-    </frontmatter>
-    <xi:include href="./TLDR.ptx"/>
+        <xi:include href='./frontmatter.ptx'/>
+<xi:include href="./TLDR.ptx"/>
     <xi:include href="./Intro.ptx"/>
     <xi:include href="./Info/Info.ptx"/>
     <xi:include href="./Assessment/Assessment.ptx"/>

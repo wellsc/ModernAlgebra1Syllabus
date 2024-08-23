@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section xml:id="assessment" xmlns:xi="http://www.w3.org/2001/XInclude">
 <title>Assessment</title>
-	<xi:include href="./399assess_intro.ptx" />
+	<xi:include href="./350assess_intro.ptx" />
 	<xi:include href="./portfolio.ptx" />
-	<xi:include href="./399portfolioContentsRequired.ptx" />
-	<xi:include href="./399portfolioContentsOptional.ptx" />
+	<xi:include href="./350portfolioContentsRequired.ptx" />
+	<xi:include href="./350portfolioContentsOptional.ptx" />
 	<xi:include href="./professionalism.ptx" />
 	<xi:include href="./final.ptx" />
 </section>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<docinfo>
+    <rename element="inlineexercise" xml:lang="en-US">Exercise</rename>
+    <rename element="divisionalexercise" xml:lang="en-US">Exercise</rename>
+    <rename element="exercises" xml:lang="en-US">Exercises</rename>
+    <rename element="exercisegroup" xml:lang="en-US">Exercise Group</rename>
+          <macros>
+             \newcommand{\cl}[1]{\left[{#1}\right]}
+                  \newcommand{\WithdrawalDate}{November 8}
+             \DeclareMathOperator{\Len}{len}
+             \DeclareMathOperator{\Deg}{deg}
+                  \DeclareMathOperator{\InDeg}{{deg}^{{}-{}}}
+                  \DeclareMathOperator{\OutDeg}{{deg}^{{}+{}}}
+             \DeclareMathOperator{\Seq}{Seq}
+             \newcommand{\abs}[1]{\left\lvert{#1}\right\rvert}
+             \providecommand{\Vec}[1]{\vec{#1}}
+             \newcommand{\Mat}[1]{\boldsymbol{\mathrm{#1}}}
+                  \newcommand{\usim}[1]{\underset{#1}{\sim}}
+                  \newcommand{\ulll}[1]{\underset{#1}{\lll}}
+                  \newcommand{\N}{\mathbb{N}}
+                  \newcommand{\R}{\mathbb{R}}
+                  \newcommand{\suchthat}{\vert{}}
+                  \newcommand\SetSeparator[1][]{\nonscript\:#1\vert\allowbreak\nonscript\:\mathopen{}}
+                  \DeclarePairedDelimiterX\Set[1]{\{}{\}}{\renewcommand{\suchthat}{\SetSeparator[\delimsize]}#1}
+                  \newcommand{\union}{\cup}
+                  \newcommand{\intersect}{\cap}
+          </macros>
+    <latex-image-preamble>
+            \RequirePackage{amsmath}
+            \RequirePackage{mathtools}
+            \RequirePackage{tcolorbox}
+            \RequirePackage{tikz}
+            \usetikzlibrary{
+                fit,
+                positioning,
+                arrows,
+                calc,
+                decorations.pathreplacing,
+                patterns,
+                intersections,
+                matrix,
+                shapes,
+                shapes.geometric,
+                graphs,
+                graphs.standard,
+            }
+    </latex-image-preamble>
+</docinfo>

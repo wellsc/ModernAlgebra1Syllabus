@@ -1,15 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<table>
-        <title>Table of Important Dates</title>
-<tabular top="major">
-	<row bottom="medium"><cell><em>Classes Begin</em> <mdash /> 1st 6 and 12 weeks		</cell><cell>May 6</cell></row>
-	<row bottom="medium"><cell>100% Tuition Refund Deadline <mdash /> 1st 6 and 12 weeks	</cell><cell>May 10 by 5:00 pm </cell></row>
-	<row bottom="medium"><cell>Last Day to Add or Register <mdash /> 1st 6 and 12 weeks	</cell><cell>May 10 by 5:00 pm </cell></row>
-	<row bottom="medium"><cell>75% Tuition Refund Deadline <mdash /> 1st 6 weeks		</cell><cell>May 17 by 5:00 pm </cell></row>
-	<row bottom="medium"><cell>Memorial Day Recess						</cell><cell>May 27</cell></row>
-	<row bottom="medium"><cell>Drop with a <q>W</q> Grade Deadline <mdash /> 1st 6 weeks	</cell><cell>June 7 by 5:00 pm</cell></row>
-	<row bottom="medium"><cell>Independence Day Recess				  	</cell><cell>July 4</cell></row>
-	<row bottom="medium"><cell>Grades Available to Students <mdash /> 2nd 6 and 12 weeks	</cell><cell>August 14</cell></row>
+<table xml:id="table_important_dates">
+<title>
+Important Dates
+</title>
+<tabular halign="left" top="major">
+<row header="yes" bottom="major"><cell>Event</cell><cell>Date</cell></row>
+<row bottom="medium"><cell>Registration Drop/Add</cell><cell>March 18<ndash/>August 30</cell></row>
+<row bottom="medium"><cell>Payment Deadline</cell><cell>August 16 before 5:00pm</cell></row>
+<row bottom="medium"><cell>Convocation</cell><cell>August 22</cell></row>
+<row bottom="medium"><cell>Classes Begin</cell><cell>August 26</cell></row>
+<row bottom="medium"><cell>100% Tuition Refund Deadline</cell><cell>August 30 before 5:00pm</cell></row>
+<row bottom="medium"><cell>Last Day to Add, Register, or Pay</cell><cell>August 30 before 5:00pm</cell></row>
+<row bottom="medium"><cell>Labor Day Recess</cell><cell>September 1<ndash/>2</cell></row>
+<row bottom="medium"><cell>Credit/No Credit Deadline</cell><cell>September 20 before 5:00pm</cell></row>
+<row bottom="medium"><cell>75% Tuition Refund Deadline</cell><cell>September 20 before 5:00pm</cell></row>
+<row bottom="medium"><cell><alert>Progress Check 1</alert></cell><cell>September 16<ndash/>20</cell></row>
+<row bottom="medium"><cell><alert>Progress Check 2</alert></cell><cell>October 7<ndash/>October 11</cell></row>
+<row bottom="medium"><cell>Mid-term Evaluations</cell><cell>October 7<ndash/>11</cell></row>
+	<row bottom="medium"><cell>Mid-term Grades Available to Students</cell><cell>October 17</cell></row>
+<row bottom="medium"><cell>Fall Break</cell><cell>October 20<ndash/>22</cell></row>
+<row bottom="medium"><cell><alert>Progress Check 3</alert></cell><cell>November 4<ndash/>November 8</cell></row>
+<row bottom="medium"><cell>Withdraw with a <sq>W</sq> Grade</cell><cell>November 8</cell></row>
+<row bottom="medium"><cell>Thanksgiving Day recess</cell><cell>November 27<ndash/>December 1</cell></row>
+<row bottom="medium"><cell><alert>Progress Check 4</alert></cell><cell>November 18<ndash/>November 22</cell></row>
+<row bottom="medium"><cell>Classes End and Commencement</cell><cell>December 7</cell></row>
+<row bottom="medium"><cell>Examination Week</cell><cell>December 7<ndash/>14</cell></row>
+<row bottom="medium"><cell><alert>Final Meetings</alert></cell><cell>December 9<ndash/>13</cell></row>
+<row bottom="medium"><cell>Semester Ends</cell><cell>December 14</cell></row>
+<row bottom="major"><cell>Grades Due</cell><cell>December 17</cell></row>
+<row bottom="major"><cell>Grades Available to Students</cell><cell>December 19</cell></row>
 </tabular>
 </table>
-
+<!--
+<row bottom="medium"><cell><+ +></cell><cell><+ +></cell></row>
+-->
