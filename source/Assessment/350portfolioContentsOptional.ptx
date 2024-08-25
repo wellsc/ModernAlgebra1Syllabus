@@ -13,23 +13,25 @@
                         Details of Activities and Investigations
                 </title>
                 <p>
-                       In addition to the synopsis and synthesis for each activity, you may choose to include more. 
+                       In addition to the synthesis for each activity, you may choose to include more. 
                 </p>
                 <p>
                         For instance, you might include work to show that you have:
                 <ul>
                 <li>
-                        gained additional depth of understanding of important concepts (the connection between the roots of a cubic equation and the coefficient of
-                <m>
-                        x^{2}
-                </m>
-                        in the equation),
+                        <p>
+                                gained additional depth of understanding of important concepts;
+                        </p>
                 </li>
                 <li>
-                        understood the historical or philosophical importance of the topic (solutions versus insolubility in radicals of polynomials or the importance of unsolved problems in mathematics), or
+                        <p>
+                        understood the historical or philosophical importance of the topic;
+                        </p>
                 </li>
                 <li>
-                        made connections to other topics in this course, in other courses, or to everyday life     (for example, the Fundamental Theorem of Algebra, factoring polynomials, the root/factor                     theorem.)
+                        <p>
+                        made connections to other topics in this course, in other courses, or to everyday life.
+                        </p>
                 </li>
         </ul>
 </p>
@@ -39,7 +41,7 @@
                         Experiments and Explorations
                 </title>
                 <p>
-		If there is a topic from class that you feel does not go far enough, you are free to investigate more deeply. For example, if you particularly enjoy abstract algebra, you might want to investigate Abel's proof of the insolubility of the quintic and its connection to permutation groups and their subgroups.
+		If there is a topic from class that you feel does not go far enough, you are free to investigate more deeply. For example, if you particularly enjoy historical connections, you might want to investigate some of the people behind the ideas and results we address in class.
                 </p>
 </subsubsection>
 <subsubsection xml:id="summaries">
@@ -48,14 +50,6 @@
                 </title>
                 <p>
 		If you use outside sources to guide your learning, you may want to include more than just citations. You can summarize what you learned from those sources and include the summaries.
-                </p>
-</subsubsection>
-<subsubsection xml:id="proofs">
-                <title>
-                        Proofs of Selected Theorems
-                </title>
-                <p>
-		For many of the results we investigate, we will give justification, but not formal proofs. If you wish to prove some of these results formally, you could include your proofs.
                 </p>
 </subsubsection>
 <subsubsection xml:id="other">

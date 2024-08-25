@@ -5,30 +5,32 @@ Important Dates
 </title>
 <tabular halign="left" top="major">
 <row header="yes" bottom="major"><cell>Event</cell><cell>Date</cell></row>
+<!--
 <row bottom="medium"><cell>Registration Drop/Add</cell><cell>March 18<ndash/>August 30</cell></row>
 <row bottom="medium"><cell>Payment Deadline</cell><cell>August 16 before 5:00pm</cell></row>
 <row bottom="medium"><cell>Convocation</cell><cell>August 22</cell></row>
-<row bottom="medium"><cell>Classes Begin</cell><cell>August 26</cell></row>
-<row bottom="medium"><cell>100% Tuition Refund Deadline</cell><cell>August 30 before 5:00pm</cell></row>
-<row bottom="medium"><cell>Last Day to Add, Register, or Pay</cell><cell>August 30 before 5:00pm</cell></row>
-<row bottom="medium"><cell>Labor Day Recess</cell><cell>September 1<ndash/>2</cell></row>
-<row bottom="medium"><cell>Credit/No Credit Deadline</cell><cell>September 20 before 5:00pm</cell></row>
-<row bottom="medium"><cell>75% Tuition Refund Deadline</cell><cell>September 20 before 5:00pm</cell></row>
-<row bottom="medium"><cell><alert>Progress Check 1</alert></cell><cell>September 16<ndash/>20</cell></row>
-<row bottom="medium"><cell><alert>Progress Check 2</alert></cell><cell>October 7<ndash/>October 11</cell></row>
-<row bottom="medium"><cell>Mid-term Evaluations</cell><cell>October 7<ndash/>11</cell></row>
-	<row bottom="medium"><cell>Mid-term Grades Available to Students</cell><cell>October 17</cell></row>
-<row bottom="medium"><cell>Fall Break</cell><cell>October 20<ndash/>22</cell></row>
-<row bottom="medium"><cell><alert>Progress Check 3</alert></cell><cell>November 4<ndash/>November 8</cell></row>
-<row bottom="medium"><cell>Withdraw with a <sq>W</sq> Grade</cell><cell>November 8</cell></row>
-<row bottom="medium"><cell>Thanksgiving Day recess</cell><cell>November 27<ndash/>December 1</cell></row>
-<row bottom="medium"><cell><alert>Progress Check 4</alert></cell><cell>November 18<ndash/>November 22</cell></row>
-<row bottom="medium"><cell>Classes End and Commencement</cell><cell>December 7</cell></row>
-<row bottom="medium"><cell>Examination Week</cell><cell>December 7<ndash/>14</cell></row>
-<row bottom="medium"><cell><alert>Final Meetings</alert></cell><cell>December 9<ndash/>13</cell></row>
-<row bottom="medium"><cell>Semester Ends</cell><cell>December 14</cell></row>
-<row bottom="major"><cell>Grades Due</cell><cell>December 17</cell></row>
-<row bottom="major"><cell>Grades Available to Students</cell><cell>December 19</cell></row>
+        -->
+<row bottom="medium"><cell>Classes Begin</cell><cell>Monday, August 26</cell></row>
+<row bottom="medium"><cell>100% Tuition Refund Deadline</cell><cell>Friday, August 30 before 5:00pm</cell></row>
+<row bottom="medium"><cell>Last Day to Add, Register, or Pay</cell><cell>Friday, August 30 before 5:00pm</cell></row>
+<row bottom="medium"><cell>Labor Day Recess</cell><cell>Sunday, September 1 <ndash/> Monday, September 2</cell></row>
+<row bottom="medium"><cell>Credit/No Credit Deadline</cell><cell>Friday, September 20 before 5:00pm</cell></row>
+<row bottom="medium"><cell>75% Tuition Refund Deadline</cell><cell>Friday, September 20 before 5:00pm</cell></row>
+<row bottom="medium"><cell><alert>Progress Check 1</alert></cell><cell>Monday, September 16 <ndash/> Friday, September 20</cell></row>
+<row bottom="medium"><cell><alert>Progress Check 2</alert></cell><cell>Monday, October 7 <ndash/> Friday, October 11</cell></row>
+<row bottom="medium"><cell>Mid-term Evaluations</cell><cell>Monday, October 7 <ndash/> Friday, October 11</cell></row>
+<row bottom="medium"><cell>Mid-term Grades Available to Students</cell><cell>Thursday, October 17</cell></row>
+<row bottom="medium"><cell>Fall Break</cell><cell>Sunday, October 20 <ndash/> Tuesday, October 22</cell></row>
+<row bottom="medium"><cell><alert>Progress Check 3</alert></cell><cell>Monday, November 4 <ndash/> Friday, November 8</cell></row>
+<row bottom="medium"><cell>Withdraw with a <sq>W</sq> Grade</cell><cell>Friday, November 8</cell></row>
+<row bottom="medium"><cell>Thanksgiving Day recess</cell><cell>Wednesday, November 27 <ndash/> Sunday, December 1</cell></row>
+<row bottom="medium"><cell><alert>Progress Check 4</alert></cell><cell>Monday, November 18 <ndash/> Friday, November 22</cell></row>
+<row bottom="medium"><cell>Classes End and Commencement</cell><cell>Saturday, December 7</cell></row>
+<row bottom="medium"><cell>Examination Week</cell><cell>Saturday, December 7 <ndash/> Saturday, December 14</cell></row>
+<row bottom="medium"><cell><alert>Final Meetings</alert></cell><cell>Monday, December 9 <ndash/> Friday, December 13</cell></row>
+<row bottom="medium"><cell>Semester Ends</cell><cell>Saturday, December 14</cell></row>
+<row bottom="major"><cell>Grades Due</cell><cell>Tuesday, December 17</cell></row>
+<row bottom="major"><cell>Grades Available to Students</cell><cell>Thursday, December 19</cell></row>
 </tabular>
 </table>
 <!--

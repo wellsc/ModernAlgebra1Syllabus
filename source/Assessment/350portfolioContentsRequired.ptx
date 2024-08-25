@@ -21,36 +21,37 @@
                         Syntheses of Activities and Readings
                 </title>
                 <p>
-                        Over the course of the semester you will be assigned multiple activities, investigations, and readings dealing with historically important mathematical topics and people.
+                        Over the course of the semester you will be assigned activities and investigations dealing with various topics in algebra.
                 </p>
                 <p>
-			For each <em>topic</em>  we study (not each activity), you are expected to include at least a synopsis of the main ideas, including the main mathematical techniques, if any. 
-			You are then expected to reflect on what the mathematics and the stories of the people involved say about the nature of mathematics.
+			For each topic we study (not necessarily each activity), you are expected to include a synopsis of the main ideas, including the main mathematical techniques and concepts. You are then expected to reflect and provide a synthesis that discusses what the topic reveals about mathematics, and in particular the mathematical area we call algebra.
 		</p>
 		<p>
 			Like everything in the portfolio, these are works in progress, and you are expected to revisit them in light of later activities or readings that may change your understanding of them.
                 </p>
         </subsubsection>
-        <subsubsection xml:id="paper">
-                <title>
-                        Book Review or Research Paper
-                </title>
-                <p>
-                        During the first week of the semester, you will choose, in consultation with me, either a book dealing with a historical topic in mathematics or a historical figure in mathematics, or begin searching for articles on the application of mathematics to an area of current importance or interest, or of importance or interest to you.
-                </p>
-                <p>
-                        Your report or paper must be included in your portfolio.
-                </p>
+        <subsubsection xml:id="proofs">
+		<title>Conjectures and Proofs</title>
+		<p>
+			There are certain theorems that, together with their proofs, are of vital and central importance to the area of algebra and to the arithmetic of the integers. One of these is the division algorithm, which we will encounter early in the semester. 
+		</p>
+		<p>
+			Equally important as proofs (in my opinion, at least) to the idea of being a mathematician or serious student of mathematics is the development of <em>conjectures</em>. One definition of mathematics is the search for more-or-less universal patterns, and the quantification and justification of their universality. Patterns that seem to appear are <em>conjectures</em>, and attempts at proof and disproof set bounds on their validity and universality. 
+		</p>
+		<p>
+			In an ideal world, you would independently develop, investigate, and validate all of the important theorems of this course through the process of conjecturing, refinement, and eventually proof. Conjecturing, however, is a skill that requires more time and practice to develop than a single semester course allows. Thus, we will develop conjectures as a class as well as independently.
+		</p>
+		<p>
+			Your portfolio will include the list of conjectures we develop as a class and your work toward understanding the conjectures. This will include experimentation, calculation, proofs of special cases, and efforts to extend the results beyond the special cases. (You can, and should, also include any conjectures you develop yourself.)
+		</p>
         </subsubsection>
         <subsubsection xml:id="essays">
                 <title>
-                        Autobiography and other Essays
+                        Mathematical Autobiography
                 </title>
                 <p>
 			One of the first assignments in the course will for you to read one or more brief autobiographies of contemporary mathematicians and then to write your own mathematical autobiography. 
-		</p>
-		<p>
-			Over the course of the semester, you may also be assigned essays dealing with historical or philosophical aspects of mathematics. Your portfolio must contain each of these.
+			Your portfolio must contain both of these.
                 </p>
         </subsubsection>
         <subsubsection xml:id="sources">

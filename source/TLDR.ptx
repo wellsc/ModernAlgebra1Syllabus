@@ -5,12 +5,12 @@
                     <ul>
                             <li>
                                     <p>
-                                            <alert>This course is not graded the way you are used to!</alert> Read <xref ref='assessment'/>, <xref ref='assessment' text='title'/>, particularly <xref ref='assess_intro'/> and <xref ref='culmination'/>. Also check the <xref ref='important_dates' text='title'/> in <xref ref='important_dates' text='type-global'/> for a list of important dates!
+                                            <alert>This course is not graded the way you are used to!</alert> Read <xref ref='assessment'/>, <xref ref='assessment' text='title'/>, particularly <xref ref='assess_intro'/> and <xref ref='culmination'/>. Also check the <xref ref='important_dates' text='title'/> in <xref ref='important_dates' text='type-global'/>!
                                     </p>
                             </li>
                             <li>
                                     <p>
-                                            Make sure to read <xref ref='policies' text='title'/> in <xref ref='policies' text='type-global'/> for course policies. In particular pay attention to <xref ref='gettingmore' text='title'/>.
+                                            Make sure to read <xref ref='policies' text='title'/> in <xref ref='policies' text='type-global'/>. In particular pay attention to <xref ref='gettingmore' text='title'/>.
                                     </p>
                             </li>
                             <li>

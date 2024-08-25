@@ -2,10 +2,10 @@
 <!-- This file, the project manifest, provides the overall configuration for your PreTeXt project. To edit the content of your document, open `source/main.ptx`. See https://pretextbook.org/doc/guide/html/processing-CLI.html#cli-project-manifest. -->
 <project ptx-version="2">
   <targets>
-    <target name="epdf"  format="pdf"  source='350-01syllabus.ptx' />
-    <target name="elatex" format="latex"  source='350-01syllabus.ptx' />
-    <target name="web"   format="html" source='350-01syllabus.ptx' />
-    <target name="print" format="pdf"  source='350-01syllabus.ptx' publication='publication-print.ptx' />
-    <target name="printlatex" format="latex"  source='350-01syllabus.ptx' publication='publication-print.ptx' />
+    <target name="epdf"  format="pdf"  source='350syllabus.ptx' />
+    <target name="elatex" format="latex"  source='350syllabus.ptx' />
+    <target name="web"   format="html" source='350syllabus.ptx' />
+    <target name="print" format="pdf"  source='350syllabus.ptx' publication='publication-print.ptx' />
+    <target name="printlatex" format="latex"  source='350syllabus.ptx' publication='publication-print.ptx' />
   </targets>
 </project>
