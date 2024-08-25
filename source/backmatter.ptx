@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<backmatter xmlns:xi='http://www.w3.org/2001/XInclude'>
+	<appendix xml:id="important_dates">
+		<title>Important Dates Calendar</title>
+		<xi:include href="./Info/dates.ptx" />
+	</appendix>
+</backmatter>

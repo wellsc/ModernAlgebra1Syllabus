@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pretext xmlns:xi="http://www.w3.org/2001/XInclude">
+<xi:include href="./docinfo.ptx" />
+<article xml:id="mth350-syllabus">
+	<title>Math 350: Modern Algebra</title>
+        <subtitle>Course Syllabus</subtitle>
+        <xi:include href='./frontmatter.ptx'/>
+        <xi:include href="./TLDR.ptx"/>
+        <xi:include href="./Intro.ptx"/>
+        <xi:include href="./Info/Info.ptx"/>
+        <xi:include href="./Assessment/Assessment.ptx"/>
+        <xi:include href="./ContentAndObjectives/ContentAndObjectives.ptx"/>
+        <xi:include href="./Policies/Policies.ptx"/>
+        <xi:include href="./backmatter.ptx"/>
+</article>
+</pretext>

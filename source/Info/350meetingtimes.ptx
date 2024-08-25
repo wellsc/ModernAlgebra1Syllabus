@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<subsection xml:id="meeting-times">
+        <title>
+                Meeting Times
+        </title>
+        <p>
+		<dl>
+			<li><title>Section 01</title><p>Tuesday and Thursday 1:00<ndash/>2:15, MAK<nbsp/>D2-329</p></li>
+			<li><title>Section 02</title><p>Tuesday and Thursday 2:30<ndash/>3:45, MAK<nbsp/>D2-329</p></li>
+			<li><title>Individual Meetings</title><p>Scheduled Separately</p></li>
+		</dl>
+        </p>
+    </subsection>
